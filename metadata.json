@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Assistant",
+  "description": "A versatile AI assistant that can understand voice commands, process images, and perform various tasks like searching the web, playing music, and making calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
